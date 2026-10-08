@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_blue">#4A90E2</color>
+    <color name="primary_dark">#357ABD</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#212121</color>
+
+    <color name="text_secondary">#E3F2FD</color>
+
+    <color name="card_background">#FFFFFF</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="card_stroke">#E0E0E0</color>
+
+    <color name="card_title">#6B7280</color>
+
+</resources>
